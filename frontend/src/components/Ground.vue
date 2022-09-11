@@ -1,7 +1,7 @@
 <template>
   <div class="ground">
     <Header />
-    <div>Content</div>
+    <Memo />
     <Footer />
   </div>
 </template>
@@ -9,5 +9,6 @@
 <script>
 import Header from "./Header.vue";
 import Footer from "./Footer.vue";
-export default { components: { Header, Footer } };
+import Memo from "./Memo.vue";
+export default { components: { Header, Footer, Memo } };
 </script>
