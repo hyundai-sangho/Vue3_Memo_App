@@ -7,7 +7,7 @@
 4. 서버: Express 
 5. 디비: MariaDB
 
-#. 소스 실행 방법
+# 소스 실행 방법
 
 1. 소스 다운로드 후 
 2. frontend 폴더에 들어가서 터미널 키고 npm install 실행
