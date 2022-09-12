@@ -15,3 +15,5 @@
 4. mariadb에 접속해서 memo 데이터베이스 생성 후
 5. mariadb 폴더 안에 memo.sql 실행 (xampp 프로그램 키고 phpmyadmin으로 들어가서 
 sql 가져오기로 실행하면 알아서 memos 테이블 생성 됨.)
+6. frontend 폴더에서 터미널 키고 npm run serve 실행
+7. backend 폴더에서 터미널 키고 npm run start 실행
